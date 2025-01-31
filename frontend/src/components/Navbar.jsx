@@ -53,6 +53,16 @@ const Navbar = (props) => {
                   </a>
                 </li>
 
+                <li className="nav-item p-2">
+                  <a
+                    className="nav-link text-white mx-3"
+                    style={{ cursor: "pointer" }}
+                    onClick={() => handleState("home")}
+                  >
+                    Coupons
+                  </a>
+                </li>
+
                 <li className="nav-item dropdown p-2">
                   <Link
                     className="nav-link dropdown-toggle"
