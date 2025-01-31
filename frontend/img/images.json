@@ -1,0 +1,9 @@
+{"images" : [
+    {
+    "productId":1,
+    "image":"/assets/Dhoni.jpg"
+    },{
+    "productId":2,
+    "image":"/assets/Virat.jpg"
+    }
+]}
